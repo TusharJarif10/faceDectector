@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1055509542653",
+    "project_id": "facedetecto",
+    "storage_bucket": "facedetecto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055509542653:android:97d448b8b8bda36681f094",
+        "android_client_info": {
+          "package_name": "com.example.firebasemlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055509542653-fnb52esggqsgjrvd5eobpu4k6mrintkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnPZaa_0w_YEfxEGkOpDk8arRCXR3ZBA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055509542653-fnb52esggqsgjrvd5eobpu4k6mrintkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055509542653:android:ef5338ec48a683c081f094",
+        "android_client_info": {
+          "package_name": "com.face.painter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055509542653-fnb52esggqsgjrvd5eobpu4k6mrintkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnPZaa_0w_YEfxEGkOpDk8arRCXR3ZBA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055509542653-fnb52esggqsgjrvd5eobpu4k6mrintkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
